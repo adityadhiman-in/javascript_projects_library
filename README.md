@@ -8,17 +8,23 @@ Welcome to my collection of awesome JavaScript projects! Here you'll find a vari
 
 ### 1. [Weather App](https://adityadhiman-in.github.io/live_weather_app/)
 
+![img](./Images/weather.png)
+
 A beautiful weather app built with HTML, CSS, and JavaScript. It utilizes the OpenWeatherMap API to fetch and display weather data.
 
 - **GitHub Repository**: [live_weather_app](https://github.com/adityadhiman-in/live_weather_app)
 
 ### 2. [To Do List App](https://adityadhiman-in.github.io/toDoApp/)
 
+![img](./Images/todo.png)
+
 An interactive to-do list app created with HTML, CSS, and JavaScript. It features local storage to save tasks and manage your to-do list efficiently.
 
 - **GitHub Repository**: [toDoApp](https://github.com/adityadhiman-in/toDoApp)
 
 ### 3. [Quiz App](https://adityadhiman-in.github.io/Quiz_App/)
+
+![img](./Images/quiz.png)
 
 A quiz application built using HTML, CSS, and JavaScript. It displays questions, options, and shows the result after completion.
 
