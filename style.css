@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+    font-family: "Exo 2", sans-serif;
+    color: var(--text-color);
+}
+body,html{
+    width: 100%;
+    height: 100%;
+    background: var(--extra-color);
+}
+:root
+{
+--primary-color: #131842;
+--secondary-color: #e1785d;
+--text-color: #070707;
+--extra-color: #ECCEAE;
+--white-color: #fff;
+--transition: all 0.3s ease-in-out;
+}
+.container{
+    background-color: var(--primary-color);
+    padding: 50px;
+    width: 100%;
+    max-width: 800px ;
+    min-width: 300px;
+    margin: 100px auto 0;
+    border-radius: 10px;
+}
+.container h1{
+    color: var(--white-color);
+    padding-bottom: 30px;
+}
+.project{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--white-color);
+    padding: 15px;
+    margin: 10px auto 0;
+    border-radius: 8px;
+}
+.project .content h2{
+    padding-bottom: 10px;
+}
+.project .btn a{
+    display: block;
+    background: var(--secondary-color);
+    padding: 10px 15px;
+    border-radius: 6px;
+    color: var(--white-color);
+    text-decoration: none;
+    margin: 10px;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    padding: 70px;
+}
+footer p{
+    margin-bottom: 10px;
+    color: var(--text-color);
+}
+footer i,a{
+    text-decoration: none;
+    font-size: 20px;
+}
