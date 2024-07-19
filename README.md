@@ -35,7 +35,7 @@ A quiz application built using HTML, CSS, and JavaScript. It displays questions,
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/adityadhiman-in/javascript_projects_library.git
    ```
 
 2. Navigate into the project directory:
