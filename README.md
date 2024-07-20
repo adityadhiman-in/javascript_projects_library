@@ -30,6 +30,15 @@ A quiz application built using HTML, CSS, and JavaScript. It displays questions,
 
 - **GitHub Repository**: [Quiz_App](https://github.com/adityadhiman-in/Quiz_App)
 
+### 4. [Secure Password Generator](https://adityadhiman-in.github.io/Quiz_App/)
+
+![img](./Images/password.png)
+
+A secure password generator using HTML, CSS, and JavaScript. It
+generates a secure password of length 16 words.
+
+- **GitHub Repository**: [Quiz_App](https://github.com/adityadhiman-in/password_generator)
+
 ## How to Run
 
 1. Clone the repository:
