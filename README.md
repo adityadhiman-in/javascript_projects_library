@@ -39,6 +39,14 @@ generates a secure password of length 16 words.
 
 - **GitHub Repository**: [Quiz_App](https://github.com/adityadhiman-in/password_generator)
 
+### 5. [Notes App](https://adityadhiman-in.github.io/notes_app_javascript/)
+
+![img](./Images/notes.png)
+
+A simple and user-friendly Notes App built using HTML, CSS, and JavaScript. This app allows users to create, edit, and delete notes effortlessly.
+
+- **GitHub Repository**: [notes_app_javascript](https://github.com/adityadhiman-in/notes_app_javascript)
+
 ## How to Run
 
 1. Clone the repository:
