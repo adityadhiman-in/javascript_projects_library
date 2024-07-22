@@ -47,6 +47,14 @@ A simple and user-friendly Notes App built using HTML, CSS, and JavaScript. This
 
 - **GitHub Repository**: [notes_app_javascript](https://github.com/adityadhiman-in/notes_app_javascript)
 
+### 6. [Notes App](https://adityadhiman-in.github.io/qr_code_generator/)
+
+![img](./Images/qrCode.png)
+
+A simple and user-friendly Notes App built using HTML, CSS, and JavaScript. This app allows users to create, edit, and delete notes effortlessly.
+
+- **GitHub Repository**: [qr_code_generator](https://github.com/adityadhiman-in/qr_code_generator)
+
 ## How to Run
 
 1. Clone the repository:
