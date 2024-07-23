@@ -37,7 +37,7 @@ A quiz application built using HTML, CSS, and JavaScript. It displays questions,
 A secure password generator using HTML, CSS, and JavaScript. It
 generates a secure password of length 16 words.
 
-- **GitHub Repository**: [Quiz_App](https://github.com/adityadhiman-in/password_generator)
+- **GitHub Repository**: [password_generator](https://github.com/adityadhiman-in/password_generator)
 
 ### 5. [Notes App](https://adityadhiman-in.github.io/notes_app_javascript/)
 
@@ -54,6 +54,14 @@ A simple and user-friendly Notes App built using HTML, CSS, and JavaScript. This
 A simple and user-friendly Notes App built using HTML, CSS, and JavaScript. This app allows users to create, edit, and delete notes effortlessly.
 
 - **GitHub Repository**: [qr_code_generator](https://github.com/adityadhiman-in/qr_code_generator)
+
+### 7. [Age Calculator](https://adityadhiman-in.github.io/qr_code_generator/)
+
+![img](./Images/ageCalc.png)
+
+This is a Beautiful web-based Age Calculator that determines your age in years, months, and days based on your birth date.
+
+- **GitHub Repository**: [age_calculator](https://github.com/adityadhiman-in/qr_code_generator)
 
 ## How to Run
 
