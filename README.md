@@ -55,13 +55,13 @@ A simple and user-friendly Notes App built using HTML, CSS, and JavaScript. This
 
 - **GitHub Repository**: [qr_code_generator](https://github.com/adityadhiman-in/qr_code_generator)
 
-### 7. [Age Calculator](https://adityadhiman-in.github.io/qr_code_generator/)
+### 7. [Age Calculator](https://adityadhiman-in.github.io/age_calculator)
 
 ![img](./Images/ageCalc.png)
 
 This is a Beautiful web-based Age Calculator that determines your age in years, months, and days based on your birth date.
 
-- **GitHub Repository**: [age_calculator](https://github.com/adityadhiman-in/qr_code_generator)
+- **GitHub Repository**: [age_calculator](https://github.com/adityadhiman-in/age_calculator)
 
 ## How to Run
 
