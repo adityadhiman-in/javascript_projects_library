@@ -63,6 +63,14 @@ This is a Beautiful web-based Age Calculator that determines your age in years, 
 
 - **GitHub Repository**: [age_calculator](https://github.com/adityadhiman-in/age_calculator)
 
+### 8. [Calculator](https://adityadhiman-in.github.io/calculator/)
+
+![img](./Images/calculator.png)
+
+A simple and elegant calculator built with HTML, CSS, and JavaScript. This calculator can perform basic arithmetic operations and includes features for clearing input and deleting the last character.
+
+- **GitHub Repository**: [calculator](https://github.com/adityadhiman-in/calculator)
+
 ## How to Run
 
 1. Clone the repository:
