@@ -1,5 +1,12 @@
 # Awesome JavaScript Projects
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/adityadhiman-in/notes_app_javascript/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/adityadhiman-in/notes_app_javascript.svg)](https://github.com/adityadhiman-in/notes_app_javascript/issues)
+[![GitHub stars](https://img.shields.io/github/stars/adityadhiman-in/notes_app_javascript.svg)](https://github.com/adityadhiman-in/notes_app_javascript/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/adityadhiman-in/notes_app_javascript.svg)](https://github.com/adityadhiman-in/notes_app_javascript/network)
+
+A simple and user-friendly Notes App built using HTML, CSS, and JavaScript. This app allows users to create, edit, and delete notes effortlessly.
+
 ![Preview Image](./Images/main.png)
 
 Welcome to my collection of awesome JavaScript projects! Here you'll find a variety of projects showcasing different aspects of web development using JavaScript. Feel free to explore the projects and check out the code.
@@ -70,6 +77,14 @@ This is a Beautiful web-based Age Calculator that determines your age in years, 
 A simple and elegant calculator built with HTML, CSS, and JavaScript. This calculator can perform basic arithmetic operations and includes features for clearing input and deleting the last character.
 
 - **GitHub Repository**: [calculator](https://github.com/adityadhiman-in/calculator)
+
+### 8. [Quotes Generator](https://adityadhiman-in.github.io/quotes_generator/)
+
+![img](./Images/quote.png)
+
+This is a beautiful web-based Quote Generator that fetches and displays random quotes from an API. Users can also share the quotes via WhatsApp.
+
+- **GitHub Repository**: [quote generator](https://github.com/adityadhiman-in/quotes_generator)
 
 ## How to Run
 
