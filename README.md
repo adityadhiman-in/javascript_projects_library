@@ -78,13 +78,23 @@ A simple and elegant calculator built with HTML, CSS, and JavaScript. This calcu
 
 - **GitHub Repository**: [calculator](https://github.com/adityadhiman-in/calculator)
 
-### 8. [Quotes Generator](https://adityadhiman-in.github.io/quotes_generator/)
+### 9. [Quotes Generator](https://adityadhiman-in.github.io/quotes_generator/)
 
 ![img](./Images/quote.png)
 
 This is a beautiful web-based Quote Generator that fetches and displays random quotes from an API. Users can also share the quotes via WhatsApp.
 
 - **GitHub Repository**: [quote generator](https://github.com/adityadhiman-in/quotes_generator)
+
+### 10. [Stopwatch](https://adityadhiman-in.github.io/stopwatch/)
+
+![img](./Images/stopwatch.png)
+
+              This project is a beautiful stopwatch built using HTML, CSS, and
+              JavaScript. It allows users to start, stop, and reset a timer with
+              a user-friendly interface.
+
+- **GitHub Repository**: [stopwatch](https://github.com/adityadhiman-in/stopwatch)
 
 ## How to Run
 
