@@ -23,7 +23,7 @@ body, html {
     --primary-color: #ffd7dd;
     --secondary-color: #ff0080;
     --tertiary-color: #ffffff;
-    --quaternary-color: #000000;
+    --quaternary-color: #000;
 }
 .playerContainer{
     width: 400px;
