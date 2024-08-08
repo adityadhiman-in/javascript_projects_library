@@ -107,6 +107,17 @@ This is a beautiful web-based Quote Generator that fetches and displays random q
 
 - **GitHub Repository**: [music player](https://github.com/adityadhiman-in/music_player)
 
+### 11. [Digital Watch](https://adityadhiman-in.github.io/digital_watch/)
+
+![img](./Images/watch.png)
+
+            A contemporary and feature-rich music player crafted using HTML,
+              CSS, and JavaScript. This project showcases functionalities such
+              as play, pause, next, and previous controls, alongside a progress
+              bar for seamless song management.
+
+- **GitHub Repository**: [digital watch](https://github.com/adityadhiman-in/digital_watch)
+
 ## How to Run
 
 1. Clone the repository:
