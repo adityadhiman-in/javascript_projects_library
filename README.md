@@ -90,9 +90,9 @@ This is a beautiful web-based Quote Generator that fetches and displays random q
 
 ![img](./Images/stopwatch.png)
 
-              This project is a beautiful stopwatch built using HTML, CSS, and
-              JavaScript. It allows users to start, stop, and reset a timer with
-              a user-friendly interface.
+This project is a beautiful stopwatch built using HTML, CSS, and
+JavaScript. It allows users to start, stop, and reset a timer with
+a user-friendly interface.
 
 - **GitHub Repository**: [stopwatch](https://github.com/adityadhiman-in/stopwatch)
 
@@ -100,10 +100,9 @@ This is a beautiful web-based Quote Generator that fetches and displays random q
 
 ![img](./Images/music.png)
 
-            A contemporary and feature-rich music player crafted using HTML,
-              CSS, and JavaScript. This project showcases functionalities such
-              as play, pause, next, and previous controls, alongside a progress
-              bar for seamless song management.
+A contemporary and feature-rich music player crafted using HTML,
+CSS, and JavaScript. This project showcases functionalities such as play, pause, next, and previous controls, alongside a progress
+bar for seamless song management.
 
 - **GitHub Repository**: [music player](https://github.com/adityadhiman-in/music_player)
 
@@ -111,10 +110,8 @@ This is a beautiful web-based Quote Generator that fetches and displays random q
 
 ![img](./Images/watch.png)
 
-            A contemporary and feature-rich music player crafted using HTML,
-              CSS, and JavaScript. This project showcases functionalities such
-              as play, pause, next, and previous controls, alongside a progress
-              bar for seamless song management.
+A contemporary and feature-rich music player crafted using HTML, CSS, and JavaScript. This project showcases functionalities such
+as play, pause, next, and previous controls, alongside a progressbar for seamless song management.
 
 - **GitHub Repository**: [digital watch](https://github.com/adityadhiman-in/digital_watch)
 
