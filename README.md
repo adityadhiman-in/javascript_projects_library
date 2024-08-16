@@ -106,7 +106,7 @@ bar for seamless song management.
 
 - **GitHub Repository**: [music player](https://github.com/adityadhiman-in/music_player)
 
-### 11. [Digital Watch](https://adityadhiman-in.github.io/digital_watch/)
+### 12. [Digital Watch](https://adityadhiman-in.github.io/digital_watch/)
 
 ![img](./Images/watch.png)
 
@@ -114,6 +114,14 @@ A contemporary and feature-rich music player crafted using HTML, CSS, and JavaSc
 as play, pause, next, and previous controls, alongside a progressbar for seamless song management.
 
 - **GitHub Repository**: [digital watch](https://github.com/adityadhiman-in/digital_watch)
+
+### 12. [Number Guessing Game](https://adityadhiman-in.github.io/number_guessing_game/)
+
+![img](./Images/numberGame.png)
+
+This is a simple Number Guessing Game built with HTML, CSS, and JavaScript. The game generates a random number between 1 and 100, and the player has to guess the correct number from four given options. The game shows feedback if the guess is correct or incorrect and provides an option to play again after a correct guess.
+
+- **GitHub Repository**: [Number Guessing Game](https://github.com/adityadhiman-in/number_guessing_game)
 
 ## How to Run
 
