@@ -1,9 +1,9 @@
 # Awesome JavaScript Projects
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/adityadhiman-in/javascript_projects_library/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/adityadhiman-in/notes_app_javascript.svg)](https://github.com/adityadhiman-in/javascript_projects_library/issues)
-[![GitHub stars](https://img.shields.io/github/stars/adityadhiman-in/notes_app_javascript.svg)](https://github.com/adityadhiman-in/javascript_projects_library/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/adityadhiman-in/notes_app_javascript.svg)](https://github.com/adityadhiman-in/javascript_projects_library/network)
+[![GitHub issues](https://img.shields.io/github/issues/adityadhiman-in/javascript_projects_library.svg)](https://github.com/adityadhiman-in/javascript_projects_library/issues)
+[![GitHub stars](https://img.shields.io/github/stars/adityadhiman-in/javascript_projects_library.svg)](https://github.com/adityadhiman-in/javascript_projects_library/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/adityadhiman-in/javascript_projects_library.svg)](https://github.com/adityadhiman-in/javascript_projects_library/network)
 
 A simple and user-friendly Notes App built using HTML, CSS, and JavaScript. This app allows users to create, edit, and delete notes effortlessly.
 
