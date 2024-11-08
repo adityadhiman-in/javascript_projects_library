@@ -125,7 +125,7 @@ This is a simple Number Guessing Game built with HTML, CSS, and JavaScript. The 
 
 ### 14. [Word Counter](https://adityadhiman-in.github.io/word_counter/)
 
-![img](./Images/numberGame.png)
+![Preview Image](./Images/wordCounter.png)
 
 A real-time Word and Character Counter web app that updates counts
 as you type. Built with HTML, CSS, and JavaScript for an
