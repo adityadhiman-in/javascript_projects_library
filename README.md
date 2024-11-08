@@ -115,13 +115,23 @@ as play, pause, next, and previous controls, alongside a progressbar for seamles
 
 - **GitHub Repository**: [digital watch](https://github.com/adityadhiman-in/digital_watch)
 
-### 12. [Number Guessing Game](https://adityadhiman-in.github.io/number_guessing_game/)
+### 13. [Number Guessing Game](https://adityadhiman-in.github.io/number_guessing_game/)
 
 ![img](./Images/numberGame.png)
 
 This is a simple Number Guessing Game built with HTML, CSS, and JavaScript. The game generates a random number between 1 and 100, and the player has to guess the correct number from four given options. The game shows feedback if the guess is correct or incorrect and provides an option to play again after a correct guess.
 
 - **GitHub Repository**: [Number Guessing Game](https://github.com/adityadhiman-in/number_guessing_game)
+
+### 14. [Word Counter](https://adityadhiman-in.github.io/word_counter/)
+
+![img](./Images/numberGame.png)
+
+A real-time Word and Character Counter web app that updates counts
+as you type. Built with HTML, CSS, and JavaScript for an
+interactive and responsive design.
+
+- **GitHub Repository**: [Word Counter](https://github.com/adityadhiman-in/word_counter)
 
 ## How to Run
 
