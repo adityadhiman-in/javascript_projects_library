@@ -133,6 +133,17 @@ interactive and responsive design.
 
 - **GitHub Repository**: [Word Counter](https://github.com/adityadhiman-in/word_counter)
 
+### 14. [Color Pallete Generator](https://adityadhiman-in.github.io/color-pallete-generator/)
+
+![Preview Image](./Images/wordCounter.png)
+
+A simple and fun project to generate random color palettes using
+**HTML**, **CSS**, and **JavaScript**. This beginner-friendly
+project helps you practice **DOM manipulation**, **JavaScript
+event handling**, and basic **UI design**.
+
+- **GitHub Repository**: [Word Counter](https://github.com/adityadhiman-in/color-pallete-generator)
+
 ## How to Run
 
 1. Clone the repository:
