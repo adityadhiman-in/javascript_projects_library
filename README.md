@@ -142,7 +142,7 @@ A simple and fun project to generate random color palettes using
 project helps you practice **DOM manipulation**, **JavaScript
 event handling**, and basic **UI design**.
 
-- **GitHub Repository**: [Word Counter](https://github.com/adityadhiman-in/color-pallete-generator)
+- **GitHub Repository**: [Color Pallete Generator](https://github.com/adityadhiman-in/color-pallete-generator)
 
 ## How to Run
 
